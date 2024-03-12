@@ -1,0 +1,16 @@
+PODS:
+  - HjOctopusAdapter (0.1.0)
+
+DEPENDENCIES:
+  - HjOctopusAdapter (from `../`)
+
+EXTERNAL SOURCES:
+  HjOctopusAdapter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HjOctopusAdapter: 198d8c96a4e9bb3cef0781f69269f26eb2704897
+
+PODFILE CHECKSUM: 3b00719b14f695a09902249434ed91c56e727880
+
+COCOAPODS: 1.14.3

@@ -1,0 +1,6 @@
+framework module Pods_HjOctopusAdapter_Example {
+  umbrella header "Pods-HjOctopusAdapter_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module HjOctopusAdapter {
+  umbrella header "HjOctopusAdapter-umbrella.h"
+
+  export *
+  module * { export * }
+}
